@@ -1,6 +1,10 @@
 body{
     font-family: "Arial"; ;
+<<<<<<< HEAD
     background-color: blue ;
+=======
+    background-color: deeppink ;
+>>>>>>> newdesign
 }
 
 .clearfix{
